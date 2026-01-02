@@ -133,6 +133,20 @@ The built files will be in the `dist` directory.
 npm run preview
 ```
 
+## 🌐 Live Preview
+
+**Tampil Bugar is now live!** You can access the interactive mockup at:
+
+**[https://tampilbugar.vercel.app](https://tampilbugar.vercel.app)**
+
+This live preview allows you to:
+- ✅ Test all screens and interactions without installing anything
+- ✅ Share the link with stakeholders for feedback
+- ✅ View the app on different devices (mobile, tablet, desktop)
+- ✅ Experience the complete cashier workflow
+
+**Note**: This is a deployed version of the mockup. All data is still hardcoded and will reset on page refresh. No backend integration exists.
+
 ## 📱 Responsive Design
 
 The application is fully responsive and works on:
